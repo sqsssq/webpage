@@ -5,7 +5,7 @@
 
 body {
     /* font-family:Georia,serif; */
-    background: #ffffff;
+    background: #ddd;
     /* font-weight:bold; */
     /* font-size:15px; */
     /* color:#333;
@@ -16,12 +16,10 @@ body {
 .framework {
     height: 1000px;
     margin-top: 30px;
-    margin-bottom: 100px;
-    width: 85%;
-    /* border-color: black; */
-    /* border-width: 3px; */
-    /* border-style: solid; */
-    box-shadow: darkgrey 0px 0px 30px 5px ;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    box-shadow: darkgrey 10px 10px 30px 5px ;
 }
 
 

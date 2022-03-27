@@ -16,8 +16,7 @@ body {
 .framework {
     height: 1000px;
     margin-top: 30px;
-    margin-bottom: 100px;
-    width: 85%;
+    border-left: 150px;
     /* border-color: black; */
     /* border-width: 3px; */
     /* border-style: solid; */

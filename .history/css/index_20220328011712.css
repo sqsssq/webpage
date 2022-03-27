@@ -25,9 +25,9 @@ body {
     /* box-shadow: darkgrey 0px 0px 30px 5px ; */
 }
 
-/* *, *::before, *::after {
+*, *::before, *::after {
     box-sizing: border-box;
-} */
+}
 
 #ToptitleFont {
     /* Garamond */
@@ -39,20 +39,19 @@ body {
     /* Garamond */
     font-family: Garamond;
     font-weight: bold;
-    font-size: 25px;
 }
 
 
-/* #titleFont:before {
+#titleFont:before {
     content: "";
     display: inline-block;
     width: 5px;
     height: 100%;
     background: #54b689;
-    position: absolute;
+    /* position: absolute; */
     left: 0;
     top: 0;
-} */
+}
 
 .webPhoto {
     /* align-items: center; */

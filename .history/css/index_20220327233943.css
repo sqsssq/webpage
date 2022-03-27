@@ -14,70 +14,20 @@ body {
 }
 
 .framework {
-    /* height: 1000px; */
+    height: 1000px;
     margin-top: 30px;
     margin-bottom: 100px;
-    padding: 30px 30px 30px 30px;
+    padding: 30px 30px 30px 30px;  
     width: 85%;
     /* border-color: black; */
     /* border-width: 3px; */
     /* border-style: solid; */
-    /* box-shadow: darkgrey 0px 0px 30px 5px ; */
-}
-
-/* *, *::before, *::after {
-    box-sizing: border-box;
-} */
-
-#ToptitleFont {
-    /* Garamond */
-    font-family: Garamond;
-    font-weight: bold;
+    box-shadow: darkgrey 0px 0px 30px 5px ;
 }
 
 #titleFont {
     /* Garamond */
-    font-family: Garamond;
-    font-weight: bold;
-    font-size: 25px;
-}
-
-
-/* #titleFont:before {
-    content: "";
-    display: inline-block;
-    width: 5px;
-    height: 100%;
-    background: #54b689;
-    position: absolute;
-    left: 0;
-    top: 0;
-} */
-
-.webPhoto {
-    /* align-items: center; */
-    /* background-color: aqua; */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.webPhoto img {
-    border-radius: 50%;
-}
-
-img {
-    vertical-align: middle;
-    border-style: none;
-    height: 200px;
-    width: 200px;
-}
-
-.webPhoto .info {
-    margin-top: 15px;
-    text-align: center;
-    line-height: 1.64;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 /*chrome--------------------------------------------start*/

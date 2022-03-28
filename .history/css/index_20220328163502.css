@@ -27,7 +27,7 @@ body {
     /* border-color: black; */
     /* border-width: 3px; */
     /* border-style: solid; */
-    /* box-shadow: darkgrey 0px 0px 30px 5px; */
+    /* box-shadow: darkgrey 0px 0px 30px 5px ; */
 }
 
 .webIntroduction .intro {
@@ -159,11 +159,7 @@ img {
 
 .awardInfox {
     line-height: 1.5rem;
-    margin-bottom: 10px;
-}
-
-.awardInfox .awardName {
-    font-weight: 600;
+    margin-bottom: 20px;
 }
 
 .awardTime {

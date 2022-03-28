@@ -111,11 +111,6 @@ body {
     /* display: table-cell; */
     align-items: center;
     vertical-align: middle;
-    display: flex;
-
-        vertical-align: middle;
-
-        text-align: center;
 }
 
 .sys img {
@@ -124,6 +119,11 @@ body {
     /* top: 50%; */
     /* transform: translate(0%, 50%); */
     /* margin: auto; */
+    display: table-cell;
+
+        vertical-align: middle;
+
+        text-align: center;
 }
 
 img {

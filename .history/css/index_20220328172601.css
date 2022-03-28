@@ -170,16 +170,6 @@ img {
     text-align: right;
 }
 
-.tSkill {
-    line-height: 2rem;
-}
-.tLan {
-    line-height: 2rem;
-}
-.tInt {
-    line-height: 2rem;
-}
-
 /*chrome--------------------------------------------start*/
 ::-webkit-scrollbar {
     width: 8px;

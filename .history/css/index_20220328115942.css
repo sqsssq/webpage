@@ -114,10 +114,10 @@ body {
 }
 
 .sys img {
-    width: 90%;
+    width: 95%;
     position: absolute;
     top: 50%;
-    transform: translate(0%, -50%);
+    transform: translate(-50%, -50%);
     /* margin: auto; */
 }
 

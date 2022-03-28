@@ -5,7 +5,7 @@
 
 @font-face{
     font-family: 'Alegreya';
-    src : url('../Alegreya/Alegreya-Regular-11.ttf');
+    src : url('../Alegreya/Alegreya-Black-2.ttf');
 }
 
 body {
@@ -30,10 +30,6 @@ body {
     /* box-shadow: darkgrey 0px 0px 30px 5px ; */
 }
 
-.webIntroduction .intro {
-    font-size: 19px;
-}
-
 /* *, *::before, *::after {
     box-sizing: border-box;
 } */
@@ -41,13 +37,13 @@ body {
 #ToptitleFont {
     /* Garamond */
     font-family: Alegreya;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 #titleFont {
     /* Garamond */
     font-family: Alegreya;
-    font-weight: bold;
+    /* font-weight: bold; */
     font-size: 25px;
     color: rgb(0, 0, 0);
     margin-top: 15px;

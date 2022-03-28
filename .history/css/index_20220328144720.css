@@ -30,8 +30,8 @@ body {
     /* box-shadow: darkgrey 0px 0px 30px 5px ; */
 }
 
-.webIntroduction .intro {
-    font-size: 19px;
+.webIntroduction .intr {
+    /* font-size: 17px; */
 }
 
 /* *, *::before, *::after {

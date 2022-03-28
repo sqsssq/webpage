@@ -5,7 +5,7 @@
 
 @font-face{
     font-family: 'Alegreya';
-    src : url('../Alegreya/Alegreya-Regular-11.ttf');
+    src : url('../Alegreya/Alegreya-BoldItalic-5.ttf');
 }
 
 body {
@@ -28,10 +28,6 @@ body {
     /* border-width: 3px; */
     /* border-style: solid; */
     /* box-shadow: darkgrey 0px 0px 30px 5px ; */
-}
-
-.webIntroduction .intro {
-    font-size: 19px;
 }
 
 /* *, *::before, *::after {
